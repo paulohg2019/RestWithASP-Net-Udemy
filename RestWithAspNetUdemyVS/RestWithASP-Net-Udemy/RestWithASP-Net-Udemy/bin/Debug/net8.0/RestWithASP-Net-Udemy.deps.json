@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RestWithASP-Net-Udemy/1.0.0": {
+        "runtime": {
+          "RestWithASP-Net-Udemy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RestWithASP-Net-Udemy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
